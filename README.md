@@ -1,8 +1,8 @@
-#Compiling
+# Compiling
 
 tsc --build tsconfig.json
 
-#Git Commands
+# Git Commands
 
 git add .
 git commit -m "updated"
